@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rado</h1>
 <h3 align="center">A programming student from Bulgaria</h3>
 
-<img align="right" alt="coding" width="400" src="<iframe src="https://gifer.com/embed/SHjd" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>">
+<iframe src="https://gifer.com/embed/SHjd" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitrashkov&label=Profile%20views&color=0e75b6&style=flat" alt="mitrashkov" /> </p>
 
