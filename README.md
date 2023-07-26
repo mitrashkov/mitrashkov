@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **javascript, python, bootstrap**
 
-- 👨‍💻 All of my projects are available at [not ready yet](not ready yet)
+- 👨‍💻 All of my projects are available at [not ready yet](not ready yet for now)
 
 - 📫 How to reach me **hypexdevelopers@gmail.com**
 
