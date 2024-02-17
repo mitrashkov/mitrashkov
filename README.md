@@ -44,3 +44,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitrashkov&" alt="mitrashkov" /></p>
 
+<img src="https://media.discordapp.net/attachments/1151824577928900608/1208406759191093309/Radoslav_Mitrashkov20240217-73-1h0f76a.jpg?ex=65e32b7e&is=65d0b67e&hm=53a331a43df244fe3745b074d5bbe4d296658a94866d4b8b35dae5126853f1f2&=&format=webp&width=1016&height=701">
