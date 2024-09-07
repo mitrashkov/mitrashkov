@@ -44,4 +44,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitrashkov&" alt="mitrashkov" /></p>
 
-<img src="https://i.ibb.co/vwfYV2f/The-Future-Is-Here.png" alt="The-Future-Is-Here">
+<img src="https://i.ibb.co/vwfYV2f/The-Future-Is-Here.png">
