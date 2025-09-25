@@ -8,12 +8,6 @@
 
 <p align="left"> <a href="[[https://twitter.com/mitrashkovx](https://twitter.com/rm99_eu)](https://twitter.com/rm99_eu)" target="blank"><img src="https://img.shields.io/twitter/follow/rm99_eu?logo=twitter&style=for-the-badge" alt="rm99_eu" /></a> </p>
 
-- 🔭 I’m currently working on **Zenionx**
-
-- 🌱 I’m currently learning **javascript, python, bootstrap**
-
-- 👨‍💻 All of my projects are available at [not ready yet](not ready yet for now)
-
 - 📫 How to reach me **hypexdevelopers@gmail.com**
 
 - ⚡ Fun fact **I started learning programming languages when i was 11 years old**
@@ -43,5 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitrashkov&show_icons=true&locale=en" alt="mitrashkov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitrashkov&" alt="mitrashkov" /></p>
-
-![The Future Is Here!](https://github.com/user-attachments/assets/62627291-be7b-4b5c-80ba-652ac3a0aa55)
