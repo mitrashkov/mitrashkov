@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rado</h1>
-<h3 align="center">A programming student from Bulgaria</h3>
+<h1 align="center">Hi 👋, I'm Mitrashkov</h1>
+<h3 align="center">A programming enthusiast from Bulgaria</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitrashkov&label=Profile%20views&color=0e75b6&style=flat" alt="mitrashkov" /> </p>
