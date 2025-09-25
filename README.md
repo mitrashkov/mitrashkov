@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitrashkov" alt="mitrashkov" /></a> </p>
 
-<p align="left"> <a href="[[[https://twitter.com/mitrashkovx](https://x.com/mitrashkov_)]([https://twitter.com/rm99_eu](https://x.com/mitrashkov_))]([[[https://twitter.com/rm99_eu](https://x.com/mitrashkov_)](https://x.com/mitrashkov_)](https://x.com/mitrashkov_))" target="blank"><img src="https://img.shields.io/twitter/follow/mitrashkov_?logo=twitter&style=for-the-badge" alt="My Twitter Account (mitrashkov_)" /></a> </p>
-
 - 📫 How to reach me **hypexdevelopers@gmail.com**
 
 - ⚡ Fun fact **I started learning programming languages when i was 11 years old**
