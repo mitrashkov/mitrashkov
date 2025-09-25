@@ -12,19 +12,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/mitrashkov_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mitrashkov_" height="30" width="40" /></a>
+<a href="https://twitter.com/mitrashkov_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mitrashkovx" height="30" width="40" /></a>
 <a href="https://codepen.io/mitrashkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mitrashkov" height="30" width="40" /></a>
 <a href="https://dev.to/mitrashkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mitrashkov" height="30" width="40" /></a>
-<a href="https://twitter.com/rm99_eu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mitrashkovx" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22268208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22268208" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mitrashkovx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mitrashkovx" height="30" width="40" /></a>
 <a href="https://kaggle.com/mitrashkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mitrashkov" height="30" width="40" /></a>
-<a href="https://instagram.com/mitrashkov_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mitrashkov_" height="30" width="40" /></a>
 <a href="https://www.behance.net/mitrashkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mitrashkov" height="30" width="40" /></a>
 <a href="https://medium.com/@mitrashkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mitrashkov" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mitrashkov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mitrashkov" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mitrashkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mitrashkov" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/mitrashkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mitrashkov" height="30" width="40" /></a>
-<a href="https://discord.gg/XwKuv5QPvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XwKuv5QPvs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
