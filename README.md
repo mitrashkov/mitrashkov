@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitrashkov" alt="mitrashkov" /></a> </p>
 
-- 📫 How to reach me **hypexdevelopers@gmail.com**
+- 📫 How to reach me **contact.mitrashkov@gmail.com**
 
 - ⚡ Fun fact **I started learning programming languages when i was 11 years old**
 
