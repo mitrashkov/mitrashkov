@@ -14,7 +14,6 @@
 <a href="https://twitter.com/mitrashkov_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mitrashkovx" height="30" width="40" /></a>
 <a href="https://codepen.io/mitrashkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mitrashkov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22268208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22268208" height="30" width="40" /></a>
-<a href="https://kaggle.com/mitrashkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mitrashkov" height="30" width="40" /></a>
 <a href="https://www.behance.net/mitrashkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mitrashkov" height="30" width="40" /></a>
 </p>
 
