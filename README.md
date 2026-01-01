@@ -1,17 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=600&color=00F7FF&center=true&vCenter=true&width=800&lines=INITIALIZING+DEVWORLD+NODE...;SYNCING+IDENTITY...;ACCESS+LEVEL%3A+PUBLIC;STATUS%3A+ONLINE" />
-</p>
-
-<p align="center">
-  <sub>last sync: <b>auto-generated</b> • do not trust timestamps</sub>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=400&color=7CFCFF&center=true&vCenter=true&width=700&lines=Radoslav+Mitrashkov;thinking...;building...;breaking...;fixing..." />
 </p>
 
 ### 🧠 About Me
