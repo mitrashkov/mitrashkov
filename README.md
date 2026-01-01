@@ -22,10 +22,19 @@
 <p align="center">
   <a href="https://www.reddit.com/r/devworld/" target="_blank">
     <img
+      src="https://img.shields.io/badge/Join%20Our%20Reddit-r%2Fdevworld-FF4500?style=for-the-badge&logo=reddit&logoColor=white"
+      alt="Join r/devworld on Reddit"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.reddit.com/r/devworld/" target="_blank">
+    <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=450&lines=Join+our+Developer+Community;Reddit+%7C+r%2Fdevworld"
       alt="Join r/devworld"
     />
   </a>
 </p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M31PQZV9)
+
