@@ -6,6 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=mitrashkov&label=signal%20intercepts&color=000000&style=flat" />
 </p>
 
+
+░ INTERFACE
+<details> <summary>▸ open node_01</summary> <br/> learned programming at 11 not because of talent because curiosity refused to shut up </details> <details> <summary>▸ open node_02</summary> <br/> prefers understanding over memorizing and building over explaining </details> <details> <summary>▸ open node_03</summary> <br/> still figuring things out and that’s the point </details>
+
 ### 🧠 About Me
 + 🚀 Passionate about programming & building real-world projects
 + 🧩 Self-taught developer since age 11
