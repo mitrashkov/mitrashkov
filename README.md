@@ -1,14 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Mitrashkov;Programming+Enthusiast;Building+Cool+Stuff+Daily" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/From-Bulgaria-2563EB?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-0EA5E9?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=600&color=00F7FF&center=true&vCenter=true&width=800&lines=INITIALIZING+DEVWORLD+NODE...;SYNCING+IDENTITY...;ACCESS+LEVEL%3A+PUBLIC;STATUS%3A+ONLINE" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mitrashkov&label=Profile%20Views&color=38bdf8&style=for-the-badge" />
+  <sub>last sync: <b>auto-generated</b> • do not trust timestamps</sub>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
 
 ### 🧠 About Me
