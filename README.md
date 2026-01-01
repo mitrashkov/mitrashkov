@@ -13,7 +13,7 @@
 Name        : Radoslav Mitrashkov
 Role        : Software Developer
 Location    : Bulgaria
-Started     : Programming since age 11
+Started     : Programming since age 13
 ```
 
 ░ INTERACTIVE NODES
