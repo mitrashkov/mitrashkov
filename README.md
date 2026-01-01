@@ -19,7 +19,6 @@ Started     : Programming since age 11
 ░ INTERACTIVE NODES
 <details> <summary>▸ approach</summary> <br/> Focused on clarity, performance, and long-term value. Building products meant to scale globally. </details> <details> <summary>▸ mindset</summary> <br/> Strong belief in learning by doing, iteration, and improvement. Every project is an opportunity to refine systems. </details> <details> <summary>▸ direction</summary> <br/> Interested in web platforms, developer tools, and digital ecosystems that solve real problems at scale. </details>
 
-🌐 Connect With Me
 <p align="center"> <a href="https://instagram.com/mitrashkov_"><img src="https://img.shields.io/badge/Instagram-1f2937?style=for-the-badge&logo=instagram"/></a> <a href="https://twitter.com/mitrashkov_"><img src="https://img.shields.io/badge/Twitter-1f2937?style=for-the-badge&logo=twitter"/></a> <a href="https://codepen.io/mitrashkov"><img src="https://img.shields.io/badge/CodePen-1f2937?style=for-the-badge&logo=codepen"/></a> <a href="https://stackoverflow.com/users/22268208"><img src="https://img.shields.io/badge/StackOverflow-1f2937?style=for-the-badge&logo=stackoverflow"/></a> <a href="https://www.behance.net/mitrashkov"><img src="https://img.shields.io/badge/Behance-1f2937?style=for-the-badge&logo=behance"/></a> </p>
 
 <p align="center">
