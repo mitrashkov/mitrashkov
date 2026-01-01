@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=400&color=7CFCFF&center=true&vCenter=true&width=700&lines=Radoslav+Mitrashkov;thinking...;building...;breaking...;fixing..." />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mitrashkov&label=signal%20intercepts&color=000000&style=flat" />
+</p>
+
 ### 🧠 About Me
 + 🚀 Passionate about programming & building real-world projects
 + 🧩 Self-taught developer since age 11
