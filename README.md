@@ -7,7 +7,7 @@
 </p>
 
 
-### ░ PROFILE
+###  PROFILE
 
 ```txt
 Name        : Radoslav Mitrashkov
