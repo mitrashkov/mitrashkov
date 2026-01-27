@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=700&color=FF4500&center=true&vCenter=true&width=800&lines=Radoslav+Mitrashkov;Developer+%26+Builder;Creating+Scalable+Digital+Products" />
 </p>
-<p align="center"><sub>This is the official GitHub profile of Radoslav Mitrashkov</sub></p>
+<p align="right">
+  <img src="https://img.shields.io/badge/Official_Profile-Radoslav_Mitrashkov-3b82f6?style=flat-square&logo=github&logoColor=white" alt="Official GitHub Profile of Radoslav Mitrashkov" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mitrashkov&label=profile%20views&color=FF4500&style=flat" />
 </p>
