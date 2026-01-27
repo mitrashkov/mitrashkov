@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=700&color=FF4500&center=true&vCenter=true&width=800&lines=Radoslav+Mitrashkov;Developer+%26+Builder;Creating+Scalable+Digital+Products" />
 </p>
-
+<h1>This is the official GitHub profile of Radoslav Mitrashkov<h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mitrashkov&label=profile%20views&color=FF4500&style=flat" />
 </p>
